@@ -1,27 +1,5 @@
 header {
-    background-color: white;
+	background-color: #CCCCCC;
     height: 70px;
-    width: 100%;
-    border-bottom: 1px solid #CCCCCC;
-    position: relative;
+    width: 100;
 }
-
-.logo-container{
-    max-width: 160px;
-    max-height: 70px;
-    width: 160px;
-    height: 70px;
-    display: flex;
-    align-items: center;
-}
-
-
-.logo {
-    background: url('../images/logo.png') no-repeat;
-    height: 60px;
-    width: 142px;
-    position: relative;
-    margin-left: 20px;
-}
-
-/* Add additional styling for header content as needed */
